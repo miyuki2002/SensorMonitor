@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Giám sát Cảm biến</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_refresh">Làm mới</string>
+    <string name="no_data_available">Không có dữ liệu cảm biến</string>
+    
+    <!-- Sensor Names -->
+    <string name="sensor_temperature">Nhiệt độ</string>
+    <string name="sensor_humidity">Độ ẩm</string>
+    <string name="sensor_water_level">Mực nước</string>
+    <string name="sensor_ph">Độ pH</string>
+    <string name="sensor_salinity">Độ mặn</string>
+    <string name="sensor_rain">Mưa</string>
+    <string name="sensor_soil_moisture">Độ ẩm đất</string>
+    
+    <!-- Settings -->
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="settings_save">Lưu</string>
+    <string name="settings_firebase_url">URL Firebase</string>
+    <string name="settings_update_interval">Tần suất cập nhật (phút)</string>
+    
+    <!-- Detail screen -->
+    <string name="title_activity_sensor_detail">Chi tiết cảm biến</string>
+    <string name="current_value">Giá trị hiện tại</string>
+    <string name="historical_data">Dữ liệu lịch sử</string>
+    <string name="one_day">1 ngày</string>
+    <string name="one_week">7 ngày</string>
+    <string name="one_month">30 ngày</string>
+</resources>
