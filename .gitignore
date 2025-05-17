@@ -1,6 +1,6 @@
 *.history
-*.github
-*.vscode
+*.github/
+*.vscode/
 *.DS_Store
 *.env
 *.env.local
